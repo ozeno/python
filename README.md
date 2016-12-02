@@ -1,5 +1,4 @@
-#
-OMU IEEE/CS Python Kursu Örnek Kodlar
+# OMU IEEE/CS Python Kursu Örnek Kodlar
 
 Bu depo, okulda devam etmekte olan Python kursu için önemli kodları ve notları barındırır. Genelde yazılan betiğin \(programın\) içeriğinde kodun çalışma mantığı yorum satırı hâlinde açıklanacaktır. 
 
