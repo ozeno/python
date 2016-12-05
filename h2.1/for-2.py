@@ -1,4 +1,7 @@
-sesliHarfler = "aeıioöuü"
+# Kullanıcıdan alınan kelimedeki(karakter dizisindeki) her karakteri for döngüsü ile tek tek kontrol edip,
+# toplam sesli ve sessiz harf sayısını bulur.
+
+sesliHarfler = "aeıioöuü"                          
 sessizHarfler = "bcçdfgğhjklmnprsştvyz"
 sesliHarfSayisi=sessizHarfSayisi=0
 kelime = input("Kelime girin: ")
