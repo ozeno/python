@@ -1,4 +1,4 @@
-# Pangram
+# Pangram cümlelerin karşılaştırılması
 metin1 = "the quick brown fox jumps over the lazy dog"
 metin2 = "pijamalı hasta yağız şoföre çabucak güvendi"
 for deger in metin1:
