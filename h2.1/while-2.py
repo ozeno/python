@@ -1,3 +1,6 @@
+#-*- coding:iso-8859-9 -*-
+
+# Basit bir hesap makinesi
 
 print("""
 Yapmak istediğiniz işlemi seçin:
@@ -13,7 +16,7 @@ while True:
         ilkSayi = int(input("  İlk sayı: "))
         ikinciSayi = int(input("  İkinci sayı: "))
         if islem is 1:
-            print("  Sonu ç: {}".format(ilkSayi+ikinciSayi))
+            print("  Sonuç: {}".format(ilkSayi+ikinciSayi))
             break
         elif islem is 2:
             print("  Sonuç: {}".format(ilkSayi-ikinciSayi))
